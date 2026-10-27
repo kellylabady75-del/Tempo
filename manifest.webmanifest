@@ -1,0 +1,29 @@
+{
+ "name": "TEMPO",
+ "short_name": "TEMPO",
+ "lang": "fr",
+ "description": "Séances d'entraînement de football au format des fiches de séance : tableau tactique, bibliothèque, planification, bilans et export PDF / Word.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#EEF1F4",
+ "theme_color": "#15233F",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
